@@ -1,0 +1,14 @@
+Foodie Express-Test Results
+
+| No. | Test Case         | Expected Result         | status        | | 
+| --- | ----------------- | ----------------------- | ------------- | 
+| 1   | Open welcome page | Welcome page appears    |  passed       |  
+| 2   | Login             | Login page opens        |  passed       |        
+| 3   | User registration | Registration page opens |  passed       |
+| 4   | Select location   | Location page opens     |   passed      |
+| 5   | Search food       | Search page opens       |   passed      |       
+| 6   | View categories   | Categories appear       |   passed      |
+| 7   | View restaurants  | Restaurant list appears |   passed      |       
+| 8   | View menu         | Menu items appear       |   passed      |
+| 9   | Add food to cart  | Cart page opens         |   passed      |            
+| 10  | Open payment page | Payment page appears    |   passed      |
